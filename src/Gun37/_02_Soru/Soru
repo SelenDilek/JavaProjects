@@ -1,0 +1,8 @@
+Ekteki Tasarıma göre gerekli modülleri yazınız.
+Sonra her birinden nesne üretiniz.
+metodların hepsinin tipi String
+ürettiğiniz nesneleri bir ArrayListe ekletip, daha sonra bu ArrayList i
+bir döngü ile metodlarını ekrana yazdırınız.
+
+EXTENDS : Genelde bilgi icerir ad , soyad , sinif , cins ,tur , yas , cinsiyet , sira no gibi...
+Implement : action icerir , yapilacaklari , yuzme , kosma , calisma , beslenme , araba cesidi v.s

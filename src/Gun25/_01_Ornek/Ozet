@@ -1,0 +1,26 @@
+int sayi;   int sayinin tipi , sayi degiskenin adi
+
+int turunden bir sayi degiskeni
+
+Ogrenci : okuldaki Ahmet in tipi
+
+tip       nesne degisken
+
+eski tip programcilik : Yapisal programlama eskiden sadece bu vardi. C --> C++ (C + oop)
+--------------------------------------------------------------------------------------
+
+Ogrenci Ahmet= new Ogrenci() ; //ogrenci = model , ahmet = varlik : Nesneye yonelik programlama
+Ahmet.okulno                                                       : Object Oriented Programming : OOP
+class Ogrenci { //class kelimesi bi tip oldugunu gosterir.
+okulNo
+adi
+soyadi
+sinifi
+Adresi
+fotosu
+telefonu
+}
+
+Kargo
+Calisan
+Vatandas

@@ -1,0 +1,18 @@
+Array
+int[]
+index var : dizi[i]
+fori(hafizadaki hali garanti cunku indexe gore gidiyor)
+foreach(sira garanti degil)
+
+
+ArrarList
+index var : get(i)
+fori(sira garanti, cunku indexe gore gidiyor)
+foreach(sira garanti degil)
+
+SET lerde
+index yok
+fori yok
+foreach(sira garanti degil)
+itarator yontemi (sira garanti degil )
+Tekrarsiz

@@ -1,0 +1,23 @@
+Kimler nereden erisebilir?
+Access Modifiers(Erisim Belirtecleri , izinler)
+
+1.Classin icinden erisim
+2.Paketin icinden erisim
+3.Diger paketlerden erisim
+
+public , private ,default(hic bir sey yazilmazsa , friendly) , protected
+
+public : projenin her yerinden erisime acik
+         class , method , field(properties int,String..)
+
+
+default : (herhangi bir sey yazilmazsa) sadece kendi paketindekiler erisebilir
+           class ,method , field
+
+
+private : sadece class in icinden erisilebilir
+          metod , field
+
+
+protected : default ile ayni calisir. (bir erisim izni daha var onu 3 konu sonra gorecegiz)
+            metod,field

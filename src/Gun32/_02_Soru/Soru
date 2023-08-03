@@ -1,0 +1,3 @@
+// Bir araba nesnesi oluşturulmak isteniyor. fields(Renk, Model, MotorHacmi,KapiSayisi)
+    // Bu nesnenin verilerini OOP kurallarına uygun olarak verip alınız.
+    // Main de 1 tane nesne oluşturup bunu kontrol ediniz.

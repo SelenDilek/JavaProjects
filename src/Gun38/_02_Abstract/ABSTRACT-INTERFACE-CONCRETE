@@ -1,0 +1,6 @@
+Somut Class                    Abstract Class               Interface
+ bütün metodlar tam             kısmen hazır                 hiç bir metod hazır değil
+ constructor var                constructor olabilir         constructor  yok
+ nesne üretilebilir             nesne üretilemez             nesne üretilemez
+ bütün access modifier var      bütün access modifier var    sadece public var
+ tümüyle somut                  kısmen somut                 tamamen SOYUT

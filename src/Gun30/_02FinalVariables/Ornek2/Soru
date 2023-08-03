@@ -1,0 +1,4 @@
+Vatandas tipinde bir degiskene ait (isim,adres,tcNo) field lari vardir.
+Devlet isimli icinde main bolumde 3 vatandas tanimlayiniz ve yazdiriniz.
+-Verilen tc no int tipinde ve siradan gitmelidir
+-verilen tcno sonradan degistirilmemelidir

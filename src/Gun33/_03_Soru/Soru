@@ -1,0 +1,15 @@
+esas maas = maas *maas katsayisi
+
+tazminat = esasmaas +tazminat
+
+
+1- Calisan isminde bir class tanımlayınız properties/fields(isim, maas(double), maasKatSayisi(double))
+2- consructor ve maashesapla Metodu(maasmaasKatSayisi) ekleyiniz. toString metodu ekleyiniz.
+
+3- GenelMudur isimli bir classı Calisan sınıfından türetip, extra field olarak tazminat ekleyiniz.
+4- GenelMudur classında maasHesaplaya tazminat double ı da ekleyiniz.
+
+5- SirketMain diye yazacağınız main in olduğu yerde, 1 calısan ve 1 GenelMüdür tanımlayarak,
+6- maaşları hesaplatıp, bordroyu yazdırınız.
+
+esas maaş= maasmaas katsayisi + tazminat
